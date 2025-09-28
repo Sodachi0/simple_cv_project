@@ -45,6 +45,8 @@ cd build
 ./app
 ```
 
+> **💡 To stop the application, press the 'q' key on the keyboard.**
+
 ## 🧠 Model Details
 
 | Detail     | Value                                                             |
